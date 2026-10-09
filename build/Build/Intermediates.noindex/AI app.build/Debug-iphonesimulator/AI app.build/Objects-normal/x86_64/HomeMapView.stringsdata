@@ -1,0 +1,96 @@
+{
+  "source": "/Users/115-1student04/Desktop/AIapp/AIapp/Views/HomeMapView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "搜尋地點、站名、路名、縣市...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "離你最近的便民設施 (符合 %lld 處)",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "地圖聚焦",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 249
+        }
+      },
+      {
+        "comment": "",
+        "key": "已選取地標設施",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 263
+        }
+      },
+      {
+        "comment": "",
+        "key": "切換回最近設施",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 276
+        }
+      },
+      {
+        "comment": "",
+        "key": "無符合篩選條件的設施，請嘗試放寬篩選",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 314
+        }
+      },
+      {
+        "comment": "",
+        "key": "相似搜尋結果 (%lld)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 350
+        }
+      },
+      {
+        "comment": "",
+        "key": "收合",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 363
+        }
+      },
+      {
+        "comment": "",
+        "key": "找不到與「%@」相符的設施據點",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 385
+        }
+      },
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 420
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FavoriteListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "我的收藏",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "目前尚無收藏的設施",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "在探索地圖或列表時，點擊愛心圖示即可將常去的優質洗手間或飲水點加入收藏。",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "已收藏 %lld 個常去據點",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 31
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,23 @@
+{
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Services/FacilityDataService.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.swiftdeps"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Services/LocationManager.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.swiftdeps"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/ViewModels/FacilityViewModel.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.swiftdeps"
+  }
+}

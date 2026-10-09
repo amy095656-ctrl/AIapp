@@ -1,0 +1,23 @@
+{
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Models/Facility.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.swiftdeps"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Models/FacilityReport.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.swiftdeps"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Models/FilterOptions.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.swiftdeps"
+  }
+}

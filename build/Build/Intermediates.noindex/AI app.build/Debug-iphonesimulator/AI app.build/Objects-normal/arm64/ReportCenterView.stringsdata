@@ -1,0 +1,376 @@
+{
+  "source": "/Users/115-1student04/Desktop/AIapp/AIapp/Views/ReportCenterView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "回報中心",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "問題回報成功！",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "新地點已送出！",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 110
+        }
+      },
+      {
+        "comment": "",
+        "key": "回報模式",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "確定",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "感謝您的即時回報！「水便搜」已立即在該設施的地圖標註與詳情頁標上異常警示，並記錄於社群維護紀錄。",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "查看地圖",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "已成功將新設施加入您的「水便搜」本地圖資與審核佇列！",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "選擇要回報的設施",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "狀況與影響程度",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "請具體描述遇到的狀況 (必填)",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "補充狀況說明 (選填)",
+        "location": {
+          "startingColumn": 108,
+          "startingLine": 190
+        }
+      },
+      {
+        "comment": "",
+        "key": "搜尋全台其他設施更換目標...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "問題類型",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 176
+        }
+      },
+      {
+        "comment": "",
+        "key": "影響程度",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "⚠️ 選擇「其他狀況反映」時，請務必填寫具體內容。",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 199
+        }
+      },
+      {
+        "comment": "",
+        "key": "請在此詳細輸入您遇到的其他問題...",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "描述現場具體狀況（例如：2號隔間門鎖卡死、水龍頭漏水）...",
+        "location": {
+          "startingColumn": 104,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "已附加現場照片證明 (1張)",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "拍照或選取現場照片證明 (選填)",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "確認送出問題回報",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 225
+        }
+      },
+      {
+        "comment": "",
+        "key": "新設施基本資訊",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 244
+        }
+      },
+      {
+        "comment": "",
+        "key": "💧 飲水機功能配備",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 263
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚻 廁所設施與衛生配備",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 274
+        }
+      },
+      {
+        "comment": "",
+        "key": "詳細指引與備註",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "設施名稱 (例如：中油XX站友善廁所)",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 245
+        }
+      },
+      {
+        "comment": "",
+        "key": "所在地址或地標描述",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "設施類型",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "場所類別",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "提供熱水 🔥",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 264
+        }
+      },
+      {
+        "comment": "",
+        "key": "提供溫水 ☕️",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "提供冰水 ❄️",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 266
+        }
+      },
+      {
+        "comment": "",
+        "key": "自備環保杯友善 🥤",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 267
+        }
+      },
+      {
+        "comment": "",
+        "key": "水質檢驗合格認證 🛡️",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "具備無障礙設施 ♿️",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 275
+        }
+      },
+      {
+        "comment": "",
+        "key": "具備親子尿布台 👶",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 276
+        }
+      },
+      {
+        "comment": "",
+        "key": "性別友善廁所 🚻",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "配備免治馬桶 🚽",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 278
+        }
+      },
+      {
+        "comment": "",
+        "key": "提供衛生紙 🧻",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 279
+        }
+      },
+      {
+        "comment": "",
+        "key": "詳細位置指引 (例如：位於後側停車場旁、需向店員借鑰匙)...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 284
+        }
+      },
+      {
+        "comment": "",
+        "key": "送出新增提報並加入地圖",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "目前尚無問題回報紀錄",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 317
+        }
+      },
+      {
+        "comment": "",
+        "key": "外出如遇衛生紙耗盡、飲水機故障或設施維修，可在此快速回報，協助全台民眾共同維護最新資訊。",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 320
+        }
+      },
+      {
+        "comment": "",
+        "key": "已提交 %lld 筆社群回報紀錄",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 329
+        }
+      },
+      {
+        "comment": "",
+        "key": "回報內容：%@",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 353
+        }
+      },
+      {
+        "comment": "",
+        "key": "• 附現場照片",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 364
+        }
+      }
+    ]
+  },
+  "version": 1
+}

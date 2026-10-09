@@ -1,0 +1,264 @@
+{
+  "source": "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FacilityListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "搜尋便民設施",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "搜尋地點、站名、路名...",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "切換為：依所屬城市",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "切換為：依場所類型",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 267
+        }
+      },
+      {
+        "comment": "",
+        "key": "城市",
+        "location": {
+          "startingColumn": 82,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "類型",
+        "location": {
+          "startingColumn": 93,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "進階",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 344
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 347
+        }
+      },
+      {
+        "comment": "",
+        "key": "已套用條件：",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 371
+        }
+      },
+      {
+        "comment": "",
+        "key": "重設全部",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 397
+        }
+      },
+      {
+        "comment": "",
+        "key": "進階篩選欄位表",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 414
+        }
+      },
+      {
+        "comment": "",
+        "key": "重設條件",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 426
+        }
+      },
+      {
+        "comment": "",
+        "key": "距離範圍",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 450
+        }
+      },
+      {
+        "comment": "",
+        "key": "距離範圍",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 454
+        }
+      },
+      {
+        "comment": "",
+        "key": "依場所類型篩選",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 481
+        }
+      },
+      {
+        "comment": "",
+        "key": "依所在縣市篩選",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 495
+        }
+      },
+      {
+        "comment": "",
+        "key": "地點篩選維度",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 465
+        }
+      },
+      {
+        "comment": "",
+        "key": "維度",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 471
+        }
+      },
+      {
+        "comment": "",
+        "key": "全部場所類型",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 482
+        }
+      },
+      {
+        "comment": "",
+        "key": "全台灣所有縣市",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 496
+        }
+      },
+      {
+        "comment": "",
+        "key": "💧 飲水機特定需求欄位",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 513
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚻 廁所特定需求欄位",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 545
+        }
+      },
+      {
+        "comment": "",
+        "key": "即時符合：%lld 個據點",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 587
+        }
+      },
+      {
+        "comment": "",
+        "key": "收合欄位表",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 599
+        }
+      },
+      {
+        "comment": "",
+        "key": "符合條件共 %lld 個據點 (依距離排序)",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 718
+        }
+      },
+      {
+        "comment": "",
+        "key": "找不到符合條件的設施",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 747
+        }
+      },
+      {
+        "comment": "",
+        "key": "請嘗試清除搜尋文字或放寬多層篩選條件",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 750
+        }
+      },
+      {
+        "comment": "",
+        "key": "清除所有篩選條件",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 753
+        }
+      },
+      {
+        "comment": "",
+        "key": "無障礙",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 918
+        }
+      },
+      {
+        "comment": "",
+        "key": "熱水",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 923
+        }
+      },
+      {
+        "comment": "",
+        "key": "尿布台",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 928
+        }
+      },
+      {
+        "comment": "",
+        "key": "⚠️ 異常警示",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 934
+        }
+      }
+    ]
+  },
+  "version": 1
+}

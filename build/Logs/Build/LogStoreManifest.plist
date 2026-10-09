@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>3CE618AF-1A71-4DF7-8E89-C8D3436681BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3CE618AF-1A71-4DF7-8E89-C8D3436681BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>12</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AI app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AI app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AI app with scheme AI app</string>
+			<key>timeStartedRecording</key>
+			<real>813211535.18772697</real>
+			<key>timeStoppedRecording</key>
+			<real>813211541.32038605</real>
+			<key>title</key>
+			<string>Building project AI app with scheme AI app</string>
+			<key>uniqueIdentifier</key>
+			<string>3CE618AF-1A71-4DF7-8E89-C8D3436681BE</string>
+		</dict>
+		<key>8E81D4D6-06EC-4D06-BBA2-558427A45783</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E81D4D6-06EC-4D06-BBA2-558427A45783.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>4</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AI app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AI app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AI app with scheme AI app</string>
+			<key>timeStartedRecording</key>
+			<real>813210979.35035396</real>
+			<key>timeStoppedRecording</key>
+			<real>813210982.77077699</real>
+			<key>title</key>
+			<string>Building project AI app with scheme AI app</string>
+			<key>uniqueIdentifier</key>
+			<string>8E81D4D6-06EC-4D06-BBA2-558427A45783</string>
+		</dict>
+		<key>A708B2FE-A832-4A92-A669-4AC0C41E3544</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A708B2FE-A832-4A92-A669-4AC0C41E3544.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AI app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AI app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AI app with scheme AI app</string>
+			<key>timeStartedRecording</key>
+			<real>813211217.58241999</real>
+			<key>timeStoppedRecording</key>
+			<real>813211221.04632103</real>
+			<key>title</key>
+			<string>Building project AI app with scheme AI app</string>
+			<key>uniqueIdentifier</key>
+			<string>A708B2FE-A832-4A92-A669-4AC0C41E3544</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

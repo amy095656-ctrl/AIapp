@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" width="120" height="140">
+  <defs>
+    <linearGradient id="allGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4338CA" />
+      <stop offset="50%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+    <filter id="pinShadowAll" x="-20%" y="-10%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000000" flood-opacity="0.28" />
+    </filter>
+  </defs>
+  <!-- Pin Body -->
+  <path d="M 60,132 C 58,110 20,80 20,52 A 40,40 0 1,1 100,52 C 100,80 62,110 60,132 Z" fill="url(#allGrad)" filter="url(#pinShadowAll)" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" />
+  <!-- Combined Dedicated Icons: Toilet (Left) + Water Drop (Right) -->
+  <g fill="#FFFFFF" transform="translate(31, 33)">
+    <!-- Compact Toilet -->
+    <rect x="1" y="1.5" width="7" height="18" rx="1.8" />
+    <rect x="0" y="0" width="9" height="2.5" rx="1.2" />
+    <path d="M 8,9 L 24,9 C 25.5,9 26.8,10.2 26.8,12 C 26.8,13.5 25.5,14.5 24,14.5 L 8,14.5 Z" />
+    <path d="M 8,14.5 C 8,22 23,22 23.5,14.5 Z" />
+    <path d="M 10,21 L 8.5,28 C 8,29.5 6.5,30.5 5,30.5 L 21,30.5 C 19.5,30.5 18,29.5 17.5,28 L 16,21 Z" />
+    <!-- Divider Line -->
+    <line x1="31" y1="2" x2="31" y2="32" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" opacity="0.5" />
+    <!-- Compact Water Drop -->
+    <path d="M 46,2 C 46,2 35,16 35,23 A 10,10 0 0,0 55,23 C 55,16 46,2 46,2 Z" />
+    <ellipse cx="41.5" cy="23" rx="2.5" ry="3.5" fill="#C7D2FE" opacity="0.7" transform="rotate(-20 41.5 23)" />
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/115-1student04/Desktop/AIapp/AIapp/Views/MainTabView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "地圖搜尋",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 10
+        }
+      },
+      {
+        "comment": "",
+        "key": "回報中心",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "我的收藏",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "設定與來源",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 25
+        }
+      }
+    ]
+  },
+  "version": 1
+}

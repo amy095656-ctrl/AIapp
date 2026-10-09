@@ -1,0 +1,152 @@
+{
+  "source": "/Users/115-1student04/Desktop/AIapp/AIapp/Views/ReportIssueView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "回報設施問題",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "回報成功！",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "回報設施",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "問題類型",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "請具體說明發生的問題狀況 (必填)",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "補充資訊說明 (選填)",
+        "location": {
+          "startingColumn": 118,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "目前有未解除警示：%@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "狀況類型",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "影響程度",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "⚠️ 選擇「其他狀況反映」時，請務必填寫具體內容。",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "請詳細描述您遇到的問題（例如：門鎖卡住、異味嚴重、地磚濕滑）...",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "描述現場具體狀況（例如：2 號隔間門鎖損壞、熱水無法出水）...",
+        "location": {
+          "startingColumn": 153,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "已附加現場照片 (1張)",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "拍照或選取現場照片證明 (選填)",
+        "location": {
+          "startingColumn": 86,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "確認送出回報",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "取消",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "確定",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "感謝您的即時回報！該設施的狀態已即時在「水便搜」地圖與清單中更新，提醒其他使用者。",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 133
+        }
+      }
+    ]
+  },
+  "version": 1
+}

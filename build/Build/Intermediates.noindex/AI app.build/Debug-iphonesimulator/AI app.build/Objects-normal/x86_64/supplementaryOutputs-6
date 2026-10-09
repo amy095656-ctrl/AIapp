@@ -1,0 +1,23 @@
+{
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/AboutSettingsView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/AboutSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/AboutSettingsView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/AboutSettingsView.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/AboutSettingsView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/AboutSettingsView.swiftdeps"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FacilityCardView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityCardView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityCardView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityCardView.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityCardView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityCardView.swiftdeps"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FacilityDetailView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityDetailView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityDetailView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityDetailView.dia",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityDetailView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/x86_64/FacilityDetailView.swiftdeps"
+  }
+}

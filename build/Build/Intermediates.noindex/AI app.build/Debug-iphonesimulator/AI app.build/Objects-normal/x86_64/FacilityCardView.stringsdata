@@ -1,0 +1,64 @@
+{
+  "source": "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FacilityCardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "•",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "•",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "步行約 %lld 分鐘",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "開放中",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "暫停開放",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "詳細資訊與指引",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "立即前往",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 148
+        }
+      }
+    ]
+  },
+  "version": 1
+}

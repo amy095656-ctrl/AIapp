@@ -1,0 +1,199 @@
+{
+  "" : {
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AI app-primary.dia",
+    "emit-module-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AI app-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AI app-primary-emit-module.dia",
+    "pch" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AI app-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AI app-primary.swiftdeps"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/ContentView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Models/Facility.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/Facility~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Models/FacilityReport.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityReport~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Models/FilterOptions.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterOptions~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/MyApp.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MyApp.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MyApp.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MyApp.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MyApp.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MyApp.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MyApp.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MyApp.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MyApp~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Services/FacilityDataService.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDataService~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Services/LocationManager.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/LocationManager~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/ViewModels/FacilityViewModel.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityViewModel~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/AboutSettingsView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AboutSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AboutSettingsView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AboutSettingsView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AboutSettingsView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AboutSettingsView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AboutSettingsView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AboutSettingsView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/AboutSettingsView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FacilityCardView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityCardView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityCardView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityCardView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityCardView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityCardView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityCardView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityCardView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityCardView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FacilityDetailView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDetailView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDetailView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDetailView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDetailView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDetailView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDetailView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDetailView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityDetailView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FacilityListView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityListView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityListView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityListView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityListView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityListView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityListView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityListView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FacilityListView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FavoriteListView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FavoriteListView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FavoriteListView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FavoriteListView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FavoriteListView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FavoriteListView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FavoriteListView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FavoriteListView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FavoriteListView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/FilterSheetView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterSheetView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterSheetView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterSheetView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterSheetView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterSheetView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterSheetView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterSheetView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/FilterSheetView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/HomeMapView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/HomeMapView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/HomeMapView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/HomeMapView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/HomeMapView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/HomeMapView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/HomeMapView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/HomeMapView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/HomeMapView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/MainTabView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MainTabView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/MainTabView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/ReportCenterView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportCenterView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportCenterView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportCenterView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportCenterView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportCenterView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportCenterView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportCenterView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportCenterView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/AIapp/Views/ReportIssueView.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportIssueView.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportIssueView.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportIssueView.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportIssueView.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportIssueView.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportIssueView.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportIssueView.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/ReportIssueView~partial.swiftmodule"
+  },
+  "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/115-1student04/Desktop/AIapp/build/Build/Intermediates.noindex/AI app.build/Debug-iphonesimulator/AI app.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
